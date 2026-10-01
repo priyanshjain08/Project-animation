@@ -14,3 +14,5 @@ A simple project showcasing different **CSS animations** using HTML and CSS.
 - HTML5
 - CSS3
 - CSS Animations
+
+Site is live at https://priyanshjain08.github.io/Project-animation/
